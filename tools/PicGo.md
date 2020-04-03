@@ -80,11 +80,13 @@ D:\space>npm install express
 
 #### 4. PicGo-GItHub设置
 
-![github](https://gitee.com/wangzb0/images/blob/master/images/20200402111420.png)
+![github](https://gitee.com/wangzb0/images/raw/master/images/20200403155414.png)
+
 
 #### 5. GitHub-Token生成
 
-![token](https://gitee.com/wangzb0/images/blob/master/images/20200402111909.png)
+![token](https://gitee.com/wangzb0/images/raw/master/images/20200403155509.png)
+
 
 #### 6. PicGo下载
 
