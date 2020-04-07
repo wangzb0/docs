@@ -62,7 +62,7 @@ D:\space>npm install express
 
 以上则安装在D:\space中。
 
-#### 3. 国内镜像网站配置
+#### 3. 国内镜像网站配置（可跳过）
 
 我们通过npm命令下载node模块的时候因为访问的是国外网站，所以可能会出现下载的很缓慢或者干脆是直接下载失败，在这种情况下，我们可以通过配置国内镜像来解决，一般配置的是[淘宝npm镜像](http://npm.taobao.org/)
 
@@ -78,16 +78,29 @@ D:\space>npm install express
    cnpm install
    ```
 
-#### 4. PicGo-GItHub设置
+#### 4. PicGo-GItHub
+
+- [PicGo下载地址](https://molunerfinn.com/PicGo/)
+- GItHub设置
 
 ![github](https://gitee.com/wangzb0/images/raw/master/images/20200403155414.png)
 
-
-#### 5. GitHub-Token生成
+- GitHub-Token生成
 
 ![token](https://gitee.com/wangzb0/images/raw/master/images/20200403155509.png)
 
+- 使用`jsDelivr`作为CDN加速
 
-#### 6. PicGo下载
+  自定义域名设置规则为: https://cdn.jsdelivr.net/gh/用户名/图床仓库名
 
-[PicGo](https://molunerfinn.com/PicGo/)
+  > https://cdn.jsdelivr.net/gh/wangzb0/images/
+
+- 使用Imagine进行图片压缩
+
+  [Imagine](https://github.com/meowtec/Imagine/releases)
+
+#### 5 PicGo-Gitee
+
+![](https://cdn.jsdelivr.net/gh/wangzb0/images//img/20200407182155.png)
+
+![](https://cdn.jsdelivr.net/gh/wangzb0/images//img/20200407182326.png)
